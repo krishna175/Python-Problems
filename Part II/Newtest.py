@@ -10,3 +10,8 @@ while 0<n<=x:
     print(n)
     n-=1
 
+print("---------------------------")
+for i in range(x):
+    print(i)
+
+
