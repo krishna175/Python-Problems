@@ -24,10 +24,10 @@ nihal.teachers = ["Mahesh", "Girish","Shiv", "Drahsti"]
 hemant.teachers  = ["Mahesh", "Girish","Shiv","Neha"]
 
 
-print(hemant.teachers)  # using the variable inside calss which is common for all the objects
+print(hemant.teachers) # here a new variable instance is generated in the object as hemant.teachers
 print(nihal.teachers)
 print(student.teachers)
-print(nihal.teachers)
+
 
 print(hemant.__dict__)
-print(nihal.__dict__)
+print(nihal.__dict__) # dict prints the attributes of a class of object in distiocnary format
