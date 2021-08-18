@@ -9,5 +9,6 @@ hemant.age = 19
 hemant.div = "A"
 
 nihal.name = "Nihal Tiwari"
+nihal.age = 20
 nihal.subjects = ["IOT","INS","Networking"]
-print(hemant.name,hemant.div, nihal.name,nihal.subjects)
+print(hemant.name,hemant.div, nihal.name,nihal.subjects,nihal.age)
